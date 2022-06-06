@@ -15,7 +15,7 @@ def chrome_options(chrome_options):
     chrome_options.add_argument('--kiosk')
     return chrome_options
  ```
-The different options available for Chrome can be referred to [here](https://seleniumhq.github.io/selenium/docs/api/py/webdriver_chrome/selenium.webdriver.chrome.options.html).
+* The different options available for Chrome can be referred to [here](https://seleniumhq.github.io/selenium/docs/api/py/webdriver_chrome/selenium.webdriver.chrome.options.html).
 
 Firefox:
 
@@ -28,7 +28,7 @@ def firefox_options(firefox_options):
     firefox_options.set_preference('browser.anchor_color', '#FF0000')
     return firefox_options
 ```
-The different options available for Firefox can be referred to [here](https://seleniumhq.github.io/selenium/docs/api/py/webdriver_firefox/selenium.webdriver.firefox.options.html).
+* The different options available for Firefox can be referred to [here](https://seleniumhq.github.io/selenium/docs/api/py/webdriver_firefox/selenium.webdriver.firefox.options.html).
 
 * Full documentation for browser configuration [Pytest](https://pytest-selenium.readthedocs.io/en/latest/user_guide.html?highlight=desired#configuration-1).
 
