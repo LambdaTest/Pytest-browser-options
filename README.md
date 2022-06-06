@@ -30,6 +30,8 @@ def firefox_options(firefox_options):
 ```
 The different options available for Firefox can be referred to [here](https://seleniumhq.github.io/selenium/docs/api/py/webdriver_firefox/selenium.webdriver.firefox.options.html).
 
+* Full documentation for browser configuration [Pytest](https://pytest-selenium.readthedocs.io/en/latest/user_guide.html?highlight=desired#configuration-1).
+
 # Links:
 
 [LambdaTest Community](http://community.lambdatest.com/)
