@@ -13,7 +13,7 @@ capabilities = {
         "browserName": "Chrome",
         "browserVersion": "latest",
         "chromeOptions" : {
-                "args" : ["incognito"]  // ChromeOption to start chrome in incognito mode
+                "args" : ["incognito"]  # ChromeOption to start chrome in incognito mode
   }
 }
  ```
